@@ -7,7 +7,7 @@
     <link rel = "Stylesheet" href ="style.css">
     <style>
         button{
-            color: blue;
+            background-color: blue;
         }
     </style>
 </head>
