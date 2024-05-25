@@ -1,0 +1,13 @@
+h1{                  /* for heading h1 tag*/
+    color:green;
+}
+p{                    /* for paragraph tags*/
+    color:rgb(110, 190, 110);
+}
+button{               /*for button tags*/
+    color:blue;    
+    background-color: green;   
+}
+body{
+   background-color: rgb(255,0,0);
+}
