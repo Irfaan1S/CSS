@@ -22,7 +22,7 @@
 </html>
 
 p{
-     text-align: center; /*left or right or center */
+     text-align: center; /*left or right or center or start or end */
 }
 h1{
     text-align: center;
