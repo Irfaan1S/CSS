@@ -7,6 +7,7 @@
     <link rel = "stylesheet" href="style.css">
 </head>
 <body>
+    <h1>Heading</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio dolorem at assumenda ducimus! Cupiditate, nesciunt. Debitis, itaque? Mollitia quo pariatur, libero non vitae cupiditate illum perferendis veniam excepturi corrupti Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus quibusdam molestias sunt aliquid nesciunt laboriosam commodi libero dolorum totam labore modi expedita, omnis voluptatibus placeat, sit ad magnam non error?
     Iure nisi aliquid impedit, laboriosam aut amet sunt odit consequatur cum ipsa at dolore ducimus, odio quaerat itaque? Provident velit quasi distinctio consequuntur ad ducimus quidem hic consectetur vitae nam.
     Sit ipsum quos itaque culpa corporis praesentium voluptatem dolorem, veritatis voluptatum aperiam corrupti maiores nam possimus quibusdam, perspiciatis recusandae est qui? Magni, vero tempora voluptate labore nihil soluta adipisci quam.
@@ -22,4 +23,7 @@
 
 p{
      text-align: center; /*left or right or center */
+}
+h1{
+    text-align: center;
 }
