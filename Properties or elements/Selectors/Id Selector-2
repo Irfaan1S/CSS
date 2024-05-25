@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 1</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <h1 id="HeadingOne">This is a heading1</h1>
+    <h1 id ="HeadingTwo">This is a heading2</h1>
+    <h1 id = "HeadingThree">This is a heading3</h1>
+    <p>This is a simple and normal paragraph.</p>
+    <button>Click me!</button>
+</body>
+</html>
+
+
+
+*{
+    color:blue;
+}
+button{
+    color:brown;
+}
+#HeadingOne{
+      color:yellow;
+}   
+#HeadingTwo{
+    color:chocolate;
+}
+#HeadingThree{
+    color:magenta;
+}
