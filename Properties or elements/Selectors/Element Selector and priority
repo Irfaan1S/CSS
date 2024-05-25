@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 1</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <p>This is a simple and normal paragraph.</p>
+    <button>Click me!</button>
+</body>
+</html>
+
+*{
+    color:pink;
+}
+h1{
+    color: green;
+}
+/*CSS Upar se lekar niche tak styling apply karta he
+So It will apply first universal selector styling
+fir agar aapne koi aur styling apply kiya toh woh apply hoga jo baad mein 
+likha hua he uski higher priority hoti he */
+
+/* here h1 ke liye alag se set kiya*/
+
+/*Css ke andar jo cheez baad mein likhi hoti he uski jyaada priority hoti he*/
