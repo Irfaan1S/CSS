@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel = "stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="h1">Heading 1</h1>
+    <h1 id="h2">Heading 2</h1>
+    <h1 id="h3">Heading 3</h1>
+    <h1 id="h4">Heading 4</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio dolorem at assumenda ducimus! Cupiditate, nesciunt. Debitis, itaque? Mollitia quo pariatur, libero non vitae cupiditate illum perferendis veniam excepturi corrupti Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus quibusdam molestias sunt aliquid nesciunt laboriosam commodi libero dolorum totam labore modi expedita, omnis voluptatibus placeat, sit ad magnam non error?
+    Iure nisi aliquid impedit, laboriosam aut amet sunt odit consequatur cum ipsa at dolore ducimus, odio quaerat itaque? Provident velit quasi distinctio consequuntur ad ducimus quidem hic consectetur vitae nam.
+    Sit ipsum quos itaque culpa corporis praesentium voluptatem dolorem, veritatis voluptatum aperiam corrupti maiores nam possimus quibusdam, perspiciatis recusandae est qui? Magni, vero tempora voluptate labore nihil soluta adipisci quam.
+    Quibusdam assumenda sunt beatae reprehenderit veritatis distinctio? Eius architecto animi dolores blanditiis nihil doloribus minima eligendi, earum ipsa sapiente impedit est unde aliquam molestias aliquid quisquam eveniet dicta quos fugit.
+    Repellendus, explicabo dicta consequuntur aut debitis sapiente blanditiis recusandae corrupti sint, modi magnam? Ex rerum nemo animi perferendis vel illum tenetur ea delectus repudiandae, at, facere recusandae vero expedita obcaecati.
+    Minus, doloribus pariatur eum excepturi assumenda et aliquid cumque dicta voluptatibus vel laboriosam deserunt saepe perferendis sunt ipsam dolores accusamus quod, optio mollitia atque officiis maxime repellat! Illo, fugiat delectus?
+    Commodi ratione similique molestiae saepe earum nihil rerum maiores ipsam accusamus fugiat provident nam voluptates et exercitationem eaque cum inventore, nesciunt, maxime assumenda sint obcaecati delectus. Nesciunt ullam itaque quia?
+    Vitae adipisci facilis nulla culpa sit error animi beatae. Exercitationem dolorem incidunt nostrum voluptates nemo ipsam quae nisi autem, iure nihil magni non, sequi, velit sed ratione amet beatae recusandae!
+    Magni maiores accusamus, eaque commodi atque obcaecati in. Amet dolore commodi temporibus esse at, hic voluptatem molestias repellat, nemo necessitatibus quas ex deserunt corporis nobis ipsa eos omnis eum? Officiis?
+    Eveniet repellat quidem exercitationem nam blanditiis iure adipisci, dignissimos recusandae distinctio rem numquam impedit architecto nihil! Voluptas, ab sunt autem molestias incidunt, ullam ipsam mollitia ipsum sapiente quo, voluptatum assumenda.</p>
+   <a href = "https://www.google.com">Click me!</a>
+</body>
+</html>
+
+p{
+     text-align: start;
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    font-weight: normal;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight: lighter;
+}
