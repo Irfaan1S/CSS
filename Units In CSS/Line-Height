@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 1</title>
+    <link rel = "stylesheet" href="style.css">
+</head>
+<body>
+    <p id="One">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque eos rem maiores assumenda vitae perspiciatis praesentium nulla ab dolores ipsam. Illo quidem delectus esse accusamus? Distinctio obcaecati perferendis minus perspiciatis.
+    Eius pariatur eligendi inventore consequuntur doloribus illo laboriosam delectus omnis, harum excepturi libero nemo quisquam dolorem aut praesentium deserunt reiciendis, necessitatibus fugiat quos? Voluptate doloremque, totam voluptas quaerat temporibus recusandae.</p>
+    <p id="Two">Para 2</p>
+    <p id="Three">Para 3</p>
+</body>
+</html>
+
+#One{
+    font-size: 25px;
+    line-height: normal; /* 20px*/
+}
+#Three{
+    font-size: 10px;
+}
