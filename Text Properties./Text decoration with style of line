@@ -1,0 +1,10 @@
+p{
+     text-align: start;
+}
+h1{
+    text-align: center;
+    text-decoration: blue wavy underline;
+}
+a{
+    text-decoration: none;
+}
