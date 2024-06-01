@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 2</title>
+    <link rel="StyleSheet" href="style.css">
+</head>
+<body>
+    <h1>display playground</h1>
+    <div>box1</div>
+</body>
+</html>
+
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(255,0,0,0.5); /*try 0 or 1 or 0.25(25%) or 0.75(75%)*/
+}
