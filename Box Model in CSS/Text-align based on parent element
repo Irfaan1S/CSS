@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Level 2</title>
+    <link rel="Stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Heading </h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum delectus quas corrupti quidem sint beatae atque voluptatum, cupiditate dolores quaerat laboriosam dolor dolorum, sapiente officiis molestias. Ipsum fuga sequi recusandae?</p>
+    <button>Click me!</button>
+    <div >
+        this is a div.
+    </div>
+</body>
+</html>
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid; /*dotted or dashed or double */
+    border-color: brown;
+    text-align: right;   /*div ke right side mein */
+}
+h1{
+    width:200px;
+    height: 50px;
+    background-color:aquamarine;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;   /*Text-align ka matlab hota he ki jitni aapko space di gayi he uske hisab se aapka alignment hoga*/
+}
