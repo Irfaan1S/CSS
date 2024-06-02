@@ -25,4 +25,5 @@ div{
 }
 #box1{
     position: static;  /*gives no change as by default saare ke saare elements postion hoti he CSS mein wo static hoti he*/
+    top:50px; /*for static:- top,right,bottom and left property wont work, In Static properties like top,right,bottom and left wont make any change*/
 }
