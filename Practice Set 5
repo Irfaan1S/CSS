@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href="style.css">
+    <title>Practice Set 5</title>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse non quod at vitae est odit repellat illum eveniet dolorem quis voluptatum quaerat tempore laboriosam, adipisci, deserunt velit fugiat iusto. Magni?
+    Quae, id. Eligendi praesentium nobis molestiae aperiam dignissimos, velit incidunt tenetur adipisci voluptatum earum quis voluptates laborum asperiores minus eos facilis nemo facere inventore cumque. Velit reiciendis magni dolorum reprehenderit?
+    Id cupiditate suscipit tempore tempora reiciendis fugit praesentium facilis saepe cumque, pariatur omnis iste quisquam enim rerum nam natus at vitae voluptatum odio. Numquam enim ea et, veritatis unde asperiores.
+    Et, blanditiis rerum cumque hic labore odio nobis perferendis alias necessitatibus ad cupiditate natus! Pariatur autem deleniti, tempore distinctio totam quia blanditiis commodi consectetur similique praesentium, animi reiciendis, dolorem voluptates.
+    Animi facere ipsam nisi asperiores quisquam corrupti, aut facilis harum consequuntur ab esse ullam accusantium explicabo adipisci ducimus atque minus dicta! Voluptate distinctio animi doloremque accusantium quia fugiat architecto possimus.
+    Ea debitis nemo laudantium quod cupiditate perspiciatis dignissimos, totam quas eveniet obcaecati perferendis. Voluptas nihil at voluptates temporibus itaque deleniti ipsa. Labore ex tempora, ipsam ducimus sint quae suscipit cum.
+    Facilis omnis corrupti inventore optio, maiores laborum harum quis totam fugiat sed? At aliquam necessitatibus culpa ipsa est magni debitis vero, iure, illum sapiente, rerum cum quis tempora esse velit?
+    Maxime possimus illo porro facere voluptas vel beatae dignissimos facilis nam quidem deserunt ipsum quia veniam recusandae eum eaque, nobis rem modi. Minus in neque cumque pariatur iusto, nesciunt natus?
+    In necessitatibus molestiae aperiam tempore nihil optio. Magnam, sequi quae dolor nisi, enim dolore officiis cupiditate in sapiente repudiandae necessitatibus deleniti eum ut molestiae. Illo atque provident perspiciatis aliquid reprehenderit.
+    Quo dolor aut quia veritatis harum! Nulla iste doloremque quos tempora id delectus, corrupti quasi modi beatae vero voluptas sequi amet molestiae fuga atque, hic placeat et veniam repellendus at.</p>
+    <div>Love Nature</div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis distinctio modi fugiat cupiditate ut maxime, dolore rem et quaerat reiciendis autem nihil itaque amet, voluptatem ab. Modi numquam expedita facere.
+    Perferendis dignissimos sed rerum optio velit. Quaerat nisi enim eius perspiciatis? Porro quam maxime beatae optio corrupti pariatur, dolores veritatis voluptas minima et explicabo sed nesciunt cumque quae ratione nisi.
+    Sint porro necessitatibus quas placeat? Id magni deleniti placeat sunt, itaque suscipit velit est corrupti aut beatae eaque quis laborum cumque numquam rerum fugit quisquam explicabo nemo distinctio debitis ullam!
+    Impedit illum commodi ab blanditiis natus quis sit non, nobis laborum atque voluptatem rem reiciendis iste asperiores consectetur ex laboriosam, nesciunt dolor dicta repudiandae soluta veniam iure. Nemo, hic culpa!
+    Ex harum perspiciatis placeat dolorum veritatis. Architecto explicabo facilis quos, veritatis mollitia labore aliquam officia deserunt blanditiis ratione inventore, maiores voluptatibus consequuntur, optio iure! Recusandae placeat quam temporibus est error!
+    Est dolor itaque deleniti dolorum explicabo omnis quasi sequi a, nemo, tenetur sapiente obcaecati laudantium fugit pariatur possimus voluptatem, mollitia ullam. Distinctio temporibus a tenetur tempore esse molestiae excepturi at!
+    Ipsam porro debitis corrupti nostrum veritatis adipisci libero quisquam alias ad laborum. Voluptates ipsum delectus eaque aut non blanditiis suscipit, cupiditate placeat dolorum amet nemo, inventore perferendis minus consequuntur accusantium?
+    Eveniet ullam perferendis tempora, blanditiis accusamus quas expedita tenetur sint distinctio quaerat, libero eum illo nihil dicta earum, ex totam repellat. Totam maiores commodi sint consequuntur doloremque iure repellendus odio!
+    Dicta ut distinctio corporis eos soluta, doloremque iure consequuntur fugiat ea ducimus quod magnam quis? Minima at facere voluptate exercitationem eveniet consequatur reiciendis et voluptatem esse maiores, non incidunt ab!
+    Magnam quam, quidem minus architecto voluptas doloremque voluptatibus, dolore, aperiam veritatis error eligendi sequi cupiditate odio aliquam at modi quia iusto excepturi dignissimos iure amet nihil. Officiis eveniet quisquam neque?</p>
+</body>
+</html>
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("Nature.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+}
