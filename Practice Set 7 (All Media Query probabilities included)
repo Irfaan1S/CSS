@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Set 7</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div></div>
+</body>
+</html>
+
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+}
+
+@media(max-width:300px){   /*for <300 that is 0 to 300*/
+    div{
+        background-color: green;
+    }
+}
+
+@media (min-width:300px) and (max-width:400px){ /*for between 300 and 400*/
+    div{
+        background-color: pink;
+    }
+}
+
+@media (min-width:400px) and (max-width:600px){  /*for between 400 and 600*/
+    div{
+        background-color: red;
+    }
+}
+@media(min-width:600px){  /*above 600 that is >600*/
+    div{
+        background-color: blue;
+    }
+}
